@@ -22,6 +22,7 @@ As to the third requirement of our modus operandi, anonymity, this will be an im
 
 MONETARY SYSTEM
 ---------------
+
 Our monetary system will be based on two fundamental ideas: currency must be backed by labor(4) and currency must depreciate in value over time(5).
 
 Labor-backed currency is issued into circulation to fund infrastructure and vital industries before continuing to circulate within a community. Labor-backed currency was part of the economic miracle that was National Socialist Germany(6). 
@@ -31,6 +32,9 @@ Currency that depreciates compels people to spend it sooner rather than later. I
 To implement a depreciating currency is just a matter of applying regular fees to an account.
 
 To also implement it as a labor-backed currency depends on more specific considerations. Which industries are important enough that they need to be funded with newly-minted currency? The answer would vary from place to place and could change over time but this manifesto will make some proposals on where we should start.
+
+FOOTNOTES
+---------
 
 1. Just a few examples: http://www.time-bank.info/, https://www.drupal.org/project/mutual_credit, https://classic.ripplepay.com/, https://opencoin.org/library, https://blog.opensourcecurrency.org/, https://wiki.p2pfoundation.net/Complementary_Currency_Software
 
