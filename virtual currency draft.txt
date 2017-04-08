@@ -1,40 +1,33 @@
-As stated under ECONOMIC STRUCTURE we will do our business with one another via anonymous forms of payment. This will include cash, cryptocurrencies, prepaid cards and barter.
+As stated under ECONOMIC STRUCTURE we will do our business with one another via anonymous forms of payment including cash, cryptocurrencies, prepaid cards and barter.
 
-None of these are perfect. Barter has its obvious limitations of course, but so do all the rest.
-
-Cash and prepaid cards are the System's money. They happen to be anonymous, for now, an oversight the System is already working to "fix". RFID chips are beginning to be embedded into paper money in some nations. Others are aiming for a cashless society where every transaction is electronically recorded. Prepaid cards will only remain anonymous for as long as the System allows it. We will not be able to rely on these options forever.
-
-Cryptocurrencies don't belong to us or the System. They belong to the code developers. Their value and availability is subject to the whims of speculation. Were we to adopt one as our official currency we would be adopting all its vulnerabilities and volatility.
+None of these are perfect. Barter has its obvious limitations of course, but so do all the rest. Cash is beginning to be embedded with RFID chips or else eliminated altogether and replaced with electronic transactions. Anonymous prepaid cards can be eliminated on a whim by the System. Cryptocurrencies are extremely volitile.
 
 We need our own private currency that we directly control. This means we issue it into circulation or remove it from circulation as needed to match our society's demand for a medium of exchange. As a private currency it will circulate only amongst ourselves as the life blood of our own private economy. It will never be siphoned off and go somewhere else like currency does under the globalist System.
 
-This particular idea has a following all its own that predates the Internet. With the digital age this community of enthusiasts has developed a wide range of software for managing virtual currencies(1). Thanks to them we already have the tools we need for implementing our own monetary system(2).
+The concept of community currencies predates the Internet and has a following all its own. These enthusiasts have already developed a range of software for managing virtual currencies(1). Thanks to them we have the ready-made tools for implementing our own monetary system(2).
 
-A centrally controlled currency brings with it all the attendant possibilities for abuse that are inherent to centralized power over money. It might also sound like a direct violation of the modus operandi of decentralization as specified in this manifesto.
+A centrally controlled currency brings with it all the attendant risks for abuse that are inherent to a centralized money system. It might also sound like a direct violation of the modus operandi of decentralization as specified in this manifesto.
 
 But two things to consider:
 
-First, once it becomes popular enough there would be a market for facilitating its exchange into other kinds of money like cash or cryptocurrency(3). So if people lost confidence in how the currency was managed they would just abandon it for something else.
+First, once it becomes popular enough there would be a market for facilitating its exchange into other kinds of money like cash or cryptocurrency(3). If people lost confidence in how the currency was managed they would abandon it and exchange it for something else.
 
-Second, we can have multiple virtual currencies maintained by multiple people. Currencies could be localized to certain regions or to specific areas of activity. They could be exchangeable with a universally accepted virtual currency that we all use, or a cryptocurrency or whatever else private individuals wanted to use. This model would provide both decentralization and compartmentalization to centrally controlled currencies.
+Second, we can have multiple virtual currencies maintained by multiple people. Currencies could be localized to certain regions or to specific areas of activity. They could be exchangeable with a universally accepted virtual currency that we all use, or with whatever type of money was decided upon between private individuals. This model would provide both decentralization and compartmentalization to centrally controlled currencies.
 
 As to the third requirement of our modus operandi, anonymity, this will be an implicit guiding principle in how any virtual currency is implemented. ie: no personal information connected to any account at any point.
 
 MONETARY SYSTEM
 ---------------
 
-Our monetary system will be based on two fundamental ideas: currency must be backed by labor(4) and currency must depreciate in value over time(5).
+Our monetary system will be based on two fundamental ideas: currency must be backed by labor(4) and currency must depreciate in value over time.(5)
 
-Labor-backed currency is issued into circulation to fund infrastructure and vital industries before continuing to circulate within a community. Labor-backed currency was part of the economic miracle that was National Socialist Germany(6). 
+Labor-backed currency is issued into circulation to fund infrastructure and vital industries before continuing to circulate within a community. Labor-backed currency was part of the economic miracle that was National Socialist Germany(6).
 
 Currency that depreciates compels people to spend it sooner rather than later. It keeps the currency circulating, prevents hoarding & speculation and encourages people to accumulate real tangible wealth. Such currency issued by the municipal government of Worgl, Austria during the Great Depression lifted the town out of unemployment and debt and made international headlines(7). It can also be said to have been a labor-backed currency since it was issued to fund various public works.
 
 To implement a depreciating currency is just a matter of applying regular fees to an account.
 
 To also implement it as a labor-backed currency depends on more specific considerations. Which industries are important enough that they need to be funded with newly-minted currency? The answer would vary from place to place and could change over time but this manifesto will make some proposals on where we should start.
-
-FOOTNOTES
----------
 
 1. Just a few examples: http://www.time-bank.info/, https://www.drupal.org/project/mutual_credit, https://classic.ripplepay.com/, https://opencoin.org/library, https://blog.opensourcecurrency.org/, https://wiki.p2pfoundation.net/Complementary_Currency_Software
 
